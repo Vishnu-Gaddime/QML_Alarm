@@ -86,7 +86,7 @@ ListModel {
         month: 9
         year: 2018
         activated: false
-        label: ""
+        label: "Exam"
         repeat: false
         daysToRepeat: [
             ListElement { dayOfWeek: 0; repeat: false },
